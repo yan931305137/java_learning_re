@@ -72,4 +72,3 @@ Lambda表达式使得Java支持函数式编程，简化了匿名内部类的使�
       .collect(Collectors.toList());
   ```
 
-通过以上内容，您可以更好地理解Java 8中的Lambda表达式的基本概念和应用场景。建议结合实际代码进行学习和实践，以加深对Lambda表达式的理解。
