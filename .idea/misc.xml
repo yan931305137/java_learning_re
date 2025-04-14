@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/13. 网络编程/pom.xml" />
+        <option value="$PROJECT_DIR$/13. 网络编程/13-3. 数据库/code/pom.xml" />
+        <option value="$PROJECT_DIR$/13. 网络编程/文件共享系统(简单项目)/fileshare/pom.xml" />
+        <option value="$PROJECT_DIR$/13. 网络编程/13-6. WebSocket/code/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

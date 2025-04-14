@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1. 变量和数据类型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. 运算符" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. 控制语句" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. 数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. 面向对象编程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6. 异常处理" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7. 常用类库" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8. 输入输出" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9. 泛型" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10. 注解" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10. 注解" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11. 反射" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12. 多线程与锁" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-1. Socket 编程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-2. URL处理" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-3. 数据库" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-3. 数据库/code/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-3. 数据库/code/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-4. NIO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-5. HTTP客户端" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/13-6. WebSocket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/文件共享系统(简单项目)/fileshare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/文件共享系统(简单项目)/fileshare/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13. 网络编程/文件共享系统(简单项目)/fileshare/ser/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性/14-1. Lambda(java 8)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性/14-2. 模块系统(java 9)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性/14-3. var(java 10)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性/14-4. 记录类(java 14)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性/14-5. 密封类(java 15)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性/14-6. 模式匹配(java 16)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. java新特性/14-7. 虚拟线程(java 19)" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.zaxxer:HikariCP:5.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.java-websocket:Java-WebSocket:1.5.4" level="project" />
+  </component>
+</module>
